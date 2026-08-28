@@ -1,0 +1,22 @@
+{
+  "name": "证券交易演示 Demo",
+  "short_name": "证券Demo",
+  "description": "手机端证券资产/持仓演示页面，支持本地修改数据。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#ef2f35",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
